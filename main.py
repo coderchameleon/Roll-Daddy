@@ -1,6 +1,6 @@
 '''
 Roll Daddy
-Created by bombercode | hornak0701 | 2020
+Created by coderchameleon | hornak0701 | 2020
 Released under GNU General Public License Version 3
 
 '''
